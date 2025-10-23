@@ -56,3 +56,50 @@ Build Quantum-hackathon from the source and install dependencies.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/projwala016/Quantum-hackathon
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd Quantum-hackathon
+3. **Install the dependencies:**
+   ```bash
+   pip install -r requirements.txt
+### ▶️ Usage
+1. **Run the project with:**
+   ```bash
+   jupyter notebook Quantum_hackathon.ipynb
+
+2. **You can also launch an interactive demo:**
+   ```bash
+   python main.py
+
+🧪 Testing
+
+1. **Quantum-hackathon uses the pytest framework.**
+    Run the test suite with:
+    ```bash
+    pytest tests/
+
+🤝 Contributing
+
+Contributions are welcome!
+To contribute:
+
+1. Fork the repository
+
+2. Create a new feature branch (git checkout -b feature-name)
+
+3. Commit your changes (git commit -m "Add new feature")
+
+4. Push to the branch (git push origin feature-name)
+
+5. Open a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License — see the LICENSE
+file for details.
+
+🌟 Show your support
+
+If you find this project helpful, please ⭐ the repo to help others discover it!
+   
