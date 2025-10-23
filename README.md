@@ -4,9 +4,9 @@
 
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/projwala016/Quantum-hackathon?style=for-the-badge&color=brightgreen)
+
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-100%25-blue?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/projwala016/Quantum-hackathon?style=for-the-badge&color=blueviolet)
+
 
 ---
 
