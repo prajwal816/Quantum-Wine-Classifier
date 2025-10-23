@@ -1,4 +1,5 @@
-# 🚀 QUANTUM-HACKATHON  
+#                QUANTUM-HACKATHON  
+
 **_Unlock Quantum Potential, Transform Tomorrow Today_**
 
 
