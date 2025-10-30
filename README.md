@@ -1,4 +1,4 @@
-#                QUANTUM-HACKATHON  
+#                Quantum-Wine-Classifier
 
 **_Unlock Quantum Potential, Transform Tomorrow Today_**
 
@@ -28,9 +28,9 @@
 ---
 
 ## 🧩 Overview
-**Quantum-hackathon** is an open-source toolkit designed to simplify the development of complex data workflows — enabling efficient data ingestion, transformation, and analysis within a cohesive framework.
+**Quantum-Wine-Classifier** is an open-source toolkit designed to simplify the development of complex data workflows — enabling efficient data ingestion, transformation, and analysis within a cohesive framework.
 
-### ✨ Why Quantum-hackathon?
+### ✨ Why Quantum-Wine-Classifier?
 This project aims to streamline data processing and modeling tasks for developers and data scientists.  
 The **core features** include:
 
